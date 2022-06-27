@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DSA & BlockChain Architecture
 - 💞️ I’m looking to collaborate on some cool projects on dApps
 - 📫 How to reach me? this is my email: tuhinbar02@gmail.com
--  Contact me 👇
--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-bar-935a66217/)](https://www.linkedin.com/in/tuhin-bar-935a66217/)
+- Contact me👇
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-bar-935a66217/)](https://www.linkedin.com/in/tuhin-bar-935a66217/)
 
 <!---
 TuhinBar/TuhinBar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuhin Bar
-- 👀 I’m interested in BlockChain Developer
+- 👀 I’m interested in BlockChain Development(dApps,deFi)
 - 🌱 I’m currently learning DSA & BlockChain Architecture
 - 💞️ I’m looking to collaborate on some cool projects on dApps
 - 📫 How to reach me? this is my email: tuhinbar02@gmail.com

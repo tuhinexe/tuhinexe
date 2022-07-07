@@ -12,7 +12,7 @@ TuhinBar/TuhinBar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![arian's github activity graph](https://activity-graph.herokuapp.com/graph?username=arian0zen&theme=green)](https://github.com/arian0zen/github-readme-activity-graph)
+[![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=green)](https://github.com/TuhinBar/github-readme-activity-graph)
 
 
 <table>

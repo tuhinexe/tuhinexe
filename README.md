@@ -9,7 +9,7 @@
 
 <!---
 TuhinBar/TuhinBar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to change.
 --->
 
 [![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=green)](https://github.com/TuhinBar/github-readme-activity-graph)

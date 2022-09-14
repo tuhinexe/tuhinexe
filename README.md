@@ -18,7 +18,7 @@ You can click the Preview link.
 
 <table>
 <tr>
-<td>
+<td rowspan="2">
 <img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" />
 </td>
 <td>

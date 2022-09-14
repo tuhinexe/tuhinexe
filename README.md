@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tuhin Bar  
 - 👀 I’m interested in BlockChain Development(dApps,deFi)  
 - 🌱 I’m currently learning DSA & BlockChain Development 
-- 💻 MERN stack soon, web3 later!!  
+- 💻 MERN stack soon, web3 later!!   
 - 💞️ DSA | Python | javaScript | Node js | React |    
 - 📫 Email: tuhinbar02@gmail.com 
 - Contact me👇 

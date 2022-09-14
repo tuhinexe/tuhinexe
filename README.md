@@ -7,6 +7,8 @@
 - Contact me👇 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-bar-935a66217/)](https://www.linkedin.com/in/tuhin-bar-935a66217/) [![Bio.link Badge](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white&link=https://bio.link/tuhinbar)](https://bio.link/tuhinbar) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/thebrocoder)](https://twitter.com/thebrocoder) [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/TuhinBar/)](https://leetcode.com/TuhinBar/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/I.me.79)](https://www.facebook.com/I.me.79) 
 
+- Skiils & Tools :
+- 
 <!---
 TuhinBar/TuhinBar is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link. 
@@ -16,6 +18,9 @@ You can click the Preview link.
 
 <table>
 <tr>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" />
+</td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=TuhinBar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TuhinBar&show_icons=true&locale=en&layout=compact&theme=tokyonight" />

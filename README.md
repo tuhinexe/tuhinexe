@@ -21,7 +21,7 @@ TuhinBar/TuhinBar is a special repository because its `README.md` (this file) ap
 You can click the Preview link. 
 --->
 
-[![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=black)](https://github.com/TuhinBar/github-readme-activity-graph)
+[![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=blue)](https://github.com/TuhinBar/github-readme-activity-graph)
 
 <table>
 <tr>

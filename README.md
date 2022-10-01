@@ -26,12 +26,12 @@ You can click the Preview link.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=TuhinBar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TuhinBar&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=TuhinBar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TuhinBar&show_icons=true&locale=en&layout=compact&theme=gotham" />
 </td>
 </tr> 
 </table>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=prussian"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=gotham"/>
 </p>

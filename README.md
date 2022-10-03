@@ -19,7 +19,7 @@
 <!---
 TuhinBar/TuhinBar is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link. 
---->
+--->  
  
 [![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=gotham)](https://github.com/TuhinBar/github-readme-activity-graph)
 

@@ -18,7 +18,7 @@
 - [![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 
 <!---
 TuhinBar/TuhinBar is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link. 
+You can click the Preview link.   
 --->  
  
 [![tuhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuhinBar&theme=gotham)](https://github.com/TuhinBar/github-readme-activity-graph)

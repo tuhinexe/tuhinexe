@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Tuhin Bar    
-- 👀 Open Source enthusiast!  
+- 👀 Open Source enthusiast!   
 - 🌱 I’m currently learning BlockChain Development  
 - 💻 MERN stack, web3 !!    
 - 💞 Python | javaScript | MERN | Web3 | Blockchain | 

@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Tuhin Bar      
+## 👋 Hi, I’m Tuhin Bar       
 - 👀 Open Source enthusiast!   
 - 🌱 I’m currently learning BlockChain Development  
 - 💻 MERN stack, WEB3 !!      

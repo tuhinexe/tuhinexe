@@ -32,6 +32,6 @@ You can click the Preview link.
 </tr> 
 </table>
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" />
+ <img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" /> 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=gotham"/>
 </p>

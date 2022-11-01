@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Tuhin Bar           
 - 👀 Open Source enthusiast!       
 - 🌱 I’m currently learning BlockChain Development   
-- 💻 MERN stack, WEB3 !!          
+- 💻 MERN stack, WEB3 !!           
 - 💞 Python | javaScript | MERN | Web3 | Blockchain | DevOps
 - 📫 Email: tuhinbar02@gmail.com        
 - Contact me👇   

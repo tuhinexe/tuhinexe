@@ -30,3 +30,6 @@
  <img src="https://github-profile-trophy.vercel.app/?username=TuhinBar" />
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=gotham"/>
 </p>
+
+
+[![An image of @tuhinbar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinbar)](https://holopin.io/@tuhinbar)

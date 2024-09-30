@@ -18,6 +18,8 @@
 
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/b4667a8b-5259-468a-96ec-abddc2ff0355" />
+
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=gotham"/>
 </p>

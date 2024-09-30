@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Tuhin Bar
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-bar-935a66217/)](https://www.linkedin.com/in/tuhin-bar-935a66217/) [![Bio.link Badge](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white&link=https://bio.link/tuhinbar)](https://bio.link/tuhinbar) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/thebrocoder)](https://twitter.com/thebrocoder) 
-## tools.exe :
+## $ > tools.exe 
 - OS:
 - ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 - Languages :

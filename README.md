@@ -22,7 +22,7 @@
 <img src="https://github.com/user-attachments/assets/28eee479-1858-42eb-9cff-cd4842e2d875" />
 
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TuhinBar&theme=gotham"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuhinexe&theme=gotham"/>
 </p>
 
 
